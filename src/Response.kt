@@ -1,0 +1,1 @@
+public data class Response(val status: Status, val message: String = "")
